@@ -1,0 +1,20 @@
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe.config
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Form1.resources
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Properties.Resources.resources
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.csproj.GenerateResource.Cache
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.pdb
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.pdb
+c:\users\martino\documents\visual studio 2013\Projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.csprojResolveAssemblyReference.cache
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe.config
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.pdb
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\bin\Debug\Repair Windows Updates.pdb
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Form1.resources
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Properties.Resources.resources
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.csproj.GenerateResource.Cache
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.AboutBox.resources
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe.manifest
+C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.TrustInfo.xml
