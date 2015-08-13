@@ -18,3 +18,6 @@ C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates
 C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.AboutBox.resources
 C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe.manifest
 C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates\obj\Debug\Repair Windows Updates.TrustInfo.xml
+D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe.config
+D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe
+D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.pdb
