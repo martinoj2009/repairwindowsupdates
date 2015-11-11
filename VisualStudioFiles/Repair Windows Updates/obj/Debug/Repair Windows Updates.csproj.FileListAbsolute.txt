@@ -21,3 +21,13 @@ C:\Users\Martino\OneDrive\projects\Repair Windows Updates\Repair Windows Updates
 D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe.config
 D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe
 D:\Documents\GitHubVisualStudio\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe.config
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.pdb
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.csprojResolveAssemblyReference.cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.AboutBox.resources
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Form1.resources
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair_Windows_Updates.Properties.Resources.resources
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\obj\Debug\Repair Windows Updates.csproj.GenerateResource.Cache
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\bin\Debug\Repair Windows Updates.exe
+C:\Users\marti\Documents\Visual Studio 2015\Projects\repairwindowsupdates\VisualStudioFiles\Repair Windows Updates\bin\Debug\Repair Windows Updates.pdb
